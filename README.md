@@ -36,7 +36,7 @@ The analysis was carried out using **MySQL and Microsoft Excel**.
 ## Project Files
 
 - **SALES_ANALYSIS.sql** — Contains the MySQL queries used for the sales analysis.
-- **sales_dashboard.xlsx** — Contains the Excel dashboard, charts, slicers, business insights, and recommendations.
+- **sales_dashboard.xlsx** — Contains the source sales dataset, Excel dashboard, charts, slicers, business insights, and recommendations.
 
 ## Analysis Areas
 
